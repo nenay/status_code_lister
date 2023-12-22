@@ -16,7 +16,7 @@ python status_code_lister.py -i your_file_with_urls.txt
 Output File Generation
 ```
 python status_code_lister.py -i your_file_with_urls.txt -o output.txt
-
+```
 Example Output File
 The generated output file will have sections for each HTTP status code, listing URLs with that status:
 ```
